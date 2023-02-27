@@ -15,7 +15,7 @@ body{
 fieldset{
     position: absolute;
     width: 400px;
-    left: 700px;
+    left: 35%;
     background: #26272c;
     border-radius: 5px;
 }
